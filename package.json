@@ -1,0 +1,20 @@
+{
+  "name": "jorge-trad-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgetrad99/jorge-trad-landing.git"
+  },
+  "keywords": [],
+  "author": "Jorge Trad <jetradl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgetrad99/jorge-trad-landing/issues"
+  },
+  "homepage": "https://github.com/jorgetrad99/jorge-trad-landing#readme"
+}
